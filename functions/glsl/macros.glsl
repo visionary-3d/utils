@@ -11,7 +11,7 @@ struct ColorStop {
     float position;
 };
 
-/* ** COLOR_RAMP macro -> based on Blender's ColorRamp Node in the shading tab
+/* ** COLOR_RAMP macro by Arya Ross -> based on Blender's ColorRamp Node in the shading tab
 ColorStop[?] colors -> array of color stops that can have any length
 float factor -> the position that you want to know the color of -> [0, 1]
 vec3 finalColor -> the final color based on the factor 
@@ -50,7 +50,7 @@ struct ColorStop {
     float position;
 };
 
-/* ** COLOR_RAMP macro -> based on Blender's ColorRamp Node in the shading tab
+/* ** COLOR_RAMP macro by Arya Ross -> based on Blender's ColorRamp Node in the shading tab
 ColorStop[?] colors -> array of color stops that can have any length
 float factor -> the position that you want to know the color of -> [0, 1]
 vec3 finalColor -> the final color based on the factor 
@@ -82,7 +82,7 @@ struct ColorStop {
     float position;
 };
 
-/* ** COLOR_RAMP macro -> based on Blender's ColorRamp Node in the shading tab
+/* ** COLOR_RAMP macro by Arya Ross -> based on Blender's ColorRamp Node in the shading tab
 ColorStop[?] colors -> array of color stops that can have any length
 float factor -> the position that you want to know the color of -> [0, 1]
 vec3 finalColor -> the final color based on the factor 
