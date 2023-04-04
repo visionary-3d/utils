@@ -1,4 +1,5 @@
 // COLOR_RAMP ------------------------------------------------
+// Video Tutorial: https://youtu.be/Ydu4epKEM3I
 
 // Version 1 ( oldest version, checkout the newer versions down below ):
 
