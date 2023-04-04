@@ -1,6 +1,6 @@
 // COLOR_RAMP ------------------------------------------------
 
-Version 1 ( oldest version, checkout the newer versions down below ):
+// Version 1 ( oldest version, checkout the newer versions down below ):
 
 /* ** ColorStop Point data structure for the COLOR_RAMP macro 
 color -> the color of the color stop
@@ -39,7 +39,7 @@ index = int(mix(float(index), float(i), float(isInBetween))); \
 
 ----------------------------
 
-Version 2 ( this version was used in this video: https://youtu.be/Ydu4epKEM3I ):
+// Version 2 ( this version was used in this video: https://youtu.be/Ydu4epKEM3I ):
 
 /* ** ColorStop Point data structure for the COLOR_RAMP macro 
 color -> the color of the color stop
@@ -71,7 +71,7 @@ vec3 finalColor -> the final color based on the factor
 
 ----------------------------
 
-Version 3 ( possibly the fastest version, using a mix instead of a ternary operator ):
+// Version 3 ( possibly the fastest version, using a mix instead of a ternary operator ):
 
 /* ** ColorStop Point data structure for the COLOR_RAMP macro 
 color -> the color of the color stop
